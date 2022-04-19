@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Food.csproj",
+  "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Food.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,53 +14402,53 @@
   "RootNamespace": "Food",
   "Documents": [
     {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Error.cshtml",
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Restaurants/Notfound.cshtml",
-      "TargetPath": "Pages\\Restaurants\\Notfound.cshtml",
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Restaurants/List.cshtml",
-      "TargetPath": "Pages\\Restaurants\\List.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Restaurants/Detail.cshtml",
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Restaurants/Detail.cshtml",
       "TargetPath": "Pages\\Restaurants\\Detail.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/shrooqsaleh/Desktop/first-project/Food/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Restaurants/Notfound.cshtml",
+      "TargetPath": "Pages\\Restaurants\\Notfound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Restaurants/List.cshtml",
+      "TargetPath": "Pages\\Restaurants\\List.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

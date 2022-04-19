@@ -1,5 +1,6 @@
 namespace Food.core
 {
+    // Entity class
     public class Restaurant
     {
         public string Name { get; set; }

@@ -11,11 +11,11 @@ namespace Food.Pages.Restaurants
 {
     public class ListModel : PageModel
     {
-        public string Message { get; set; }
         public IEnumerable<Restaurant> restaurants { get; set; }
         // public readonly IConfiguration config;
         public readonly IRestaurantData restaurantData;
 
+        // bind data (SearchTerm) from form in List.cshtml
         [BindProperty(SupportsGet =true)] 
         public string SearchTerm { get; set; }
         public ListModel(IRestaurantData restaurantData){
@@ -24,10 +24,10 @@ namespace Food.Pages.Restaurants
         }
         public void OnGet()
         {
-            // Message = config["Message"];
-            Message = "helloooooo!!!!!!!";
+            // returns all restaurant from restaurant Data
             restaurants = restaurantData.GetAll();
 
+            // using GetRestaurantsByName() to search by restaurant name
             restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
     }

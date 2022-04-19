@@ -14,6 +14,8 @@ namespace Food.data
     public class InMemoryRestaurantData : IRestaurantData
     {
         readonly List<Restaurant> restaurants;
+
+        // Create in-memory data
         public InMemoryRestaurantData()
         {
             restaurants = new List<Restaurant>()
@@ -29,6 +31,7 @@ namespace Food.data
             orderby r.Name 
             select r;
     }
+        // Method to return data 
         public IEnumerable<Restaurant> GetRestaurantsByName(string name)
         {
             return from r in restaurants 

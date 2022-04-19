@@ -19,9 +19,12 @@ namespace Food.Pages.Restaurants
         public IActionResult OnGet(int restaurantId)
         {
             restaurant = restaurantData.GetRestaurantsById(restaurantId);
+            
+            // if the restaurant is not found return NotFound page
             if(restaurant == null){
                 return RedirectToPage("./NotFound");
             }
+            // otherwise rerender this page
             return Page();
         }
     } 
