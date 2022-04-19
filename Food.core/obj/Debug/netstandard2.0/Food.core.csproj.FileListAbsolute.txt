@@ -1,0 +1,9 @@
+/Users/shrooqsaleh/Desktop/first-project/Food.core/bin/Debug/netstandard2.0/Food.core.deps.json
+/Users/shrooqsaleh/Desktop/first-project/Food.core/bin/Debug/netstandard2.0/Food.core.dll
+/Users/shrooqsaleh/Desktop/first-project/Food.core/bin/Debug/netstandard2.0/Food.core.pdb
+/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/Debug/netstandard2.0/Food.core.csprojAssemblyReference.cache
+/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/Debug/netstandard2.0/Food.core.AssemblyInfoInputs.cache
+/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/Debug/netstandard2.0/Food.core.AssemblyInfo.cs
+/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/Debug/netstandard2.0/Food.core.csproj.CoreCompileInputs.cache
+/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/Debug/netstandard2.0/Food.core.dll
+/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/Debug/netstandard2.0/Food.core.pdb

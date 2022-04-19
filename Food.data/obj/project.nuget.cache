@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ox9RYvgbciaTGCuYxrfATAPVZxc32DSF/tuiLKNb4Ez5zljF8I2eWyrOSs+5yikSqrogwMe5Go9ToZW5cf6kow==",
+  "success": true,
+  "projectFilePath": "/Users/shrooqsaleh/Desktop/first-project/Food.data/Food.data.csproj",
+  "expectedPackageFiles": [
+    "/Users/shrooqsaleh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shrooqsaleh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
