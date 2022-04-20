@@ -16,6 +16,9 @@ namespace Food.Pages.Restaurants
         public DetailModel(IRestaurantData restaurantData){
             this.restaurantData = restaurantData;
         }
+        [TempData]
+        public string Message { get; set; }
+
         public IActionResult OnGet(int restaurantId)
         {
             restaurant = restaurantData.GetRestaurantsById(restaurantId);
