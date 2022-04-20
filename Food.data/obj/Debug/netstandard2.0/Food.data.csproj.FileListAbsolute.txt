@@ -10,3 +10,15 @@
 /Users/shrooqsaleh/Desktop/first-project/Food.data/obj/Debug/netstandard2.0/Food.data.csproj.CopyComplete
 /Users/shrooqsaleh/Desktop/first-project/Food.data/obj/Debug/netstandard2.0/Food.data.dll
 /Users/shrooqsaleh/Desktop/first-project/Food.data/obj/Debug/netstandard2.0/Food.data.pdb
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/bin/Debug/netstandard2.0/Food.data.deps.json
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/bin/Debug/netstandard2.0/Food.data.dll
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/bin/Debug/netstandard2.0/Food.data.pdb
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/bin/Debug/netstandard2.0/Food.core.dll
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/bin/Debug/netstandard2.0/Food.core.pdb
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.csprojAssemblyReference.cache
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.AssemblyInfoInputs.cache
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.AssemblyInfo.cs
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.csproj.CoreCompileInputs.cache
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.csproj.CopyComplete
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.dll
+/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/obj/Debug/netstandard2.0/Food.data.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shrooqsaleh/Desktop/first-project/Food.core/Food.core.csproj": {}
+    "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.core/Food.core.csproj": {}
   },
   "projects": {
-    "/Users/shrooqsaleh/Desktop/first-project/Food.core/Food.core.csproj": {
+    "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.core/Food.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shrooqsaleh/Desktop/first-project/Food.core/Food.core.csproj",
+        "projectUniqueName": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.core/Food.core.csproj",
         "projectName": "Food.core",
-        "projectPath": "/Users/shrooqsaleh/Desktop/first-project/Food.core/Food.core.csproj",
+        "projectPath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.core/Food.core.csproj",
         "packagesPath": "/Users/shrooqsaleh/.nuget/packages/",
-        "outputPath": "/Users/shrooqsaleh/Desktop/first-project/Food.core/obj/",
+        "outputPath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shrooqsaleh/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [
