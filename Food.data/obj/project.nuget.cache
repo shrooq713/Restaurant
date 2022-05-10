@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b+gF4hMw06Bm8Zn348lHtsuopvPrbZBH6MoVbpEF+S2Pr+wzrrHAQk8utXlYy9yvkhdRpQy8CiXBgmj4/hApKw==",
+  "dgSpecHash": "AcqG4YpiOIfs3ZFGOMXLPqF/maF8ts5S0h/UelXCK5/oPKI8bGSjYdsGkD/tGWkUAmI7uBGVPEAsyOD7+ckF1A==",
   "success": true,
   "projectFilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food.data/Food.data.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "/Users/shrooqsaleh/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
     "/Users/shrooqsaleh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/shrooqsaleh/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/shrooqsaleh/.nuget/packages/microsoft.visualstudio.web.codegeneration.design/2.1.4/microsoft.visualstudio.web.codegeneration.design.2.1.4.nupkg.sha512",
     "/Users/shrooqsaleh/.nuget/packages/microsoft.win32.registry/4.5.0/microsoft.win32.registry.4.5.0.nupkg.sha512",
     "/Users/shrooqsaleh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/shrooqsaleh/.nuget/packages/remotion.linq/2.2.0/remotion.linq.2.2.0.nupkg.sha512",
