@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Food.data;
+using Microsoft.EntityFrameworkCore;
 namespace Food
 {
     public class Startup
@@ -23,7 +24,10 @@ namespace Food
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
+            services.AddDbContext<RestaurantDBContext>(options =>
+                options.UseMySql("server=localhost; port=3306; database=RestaurantDB; user=root; password=Shshrooq1212123")
+            );
+            services.AddScoped<IRestaurantData, SqlRestaurantData>();
             services.AddRazorPages();
         }
 

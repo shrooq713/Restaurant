@@ -6,7 +6,6 @@ namespace Food.data
 {
     public interface IRestaurantData
     {
-         IEnumerable<Restaurant> GetAll();
          IEnumerable<Restaurant> GetRestaurantsByName(string name);
          Restaurant GetRestaurantsById(int id);
          Restaurant Update(Restaurant updatedRestaurant);
