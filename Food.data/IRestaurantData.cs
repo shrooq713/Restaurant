@@ -11,6 +11,7 @@ namespace Food.data
          Restaurant Update(Restaurant updatedRestaurant);
          int Commit();
          Restaurant Add(Restaurant newRestaurant);
+         Restaurant Delete(int id);
     }
 
     public class InMemoryRestaurantData : IRestaurantData
@@ -63,6 +64,15 @@ namespace Food.data
             restaurants.Add(newRestaurant);
             newRestaurant.Id = restaurants.Max(r => r.Id) + 1;
             return newRestaurant;
+        }
+
+        public Restaurant Delete(int id){
+            var restaurant = restaurants.FirstOrDefault(r => r.Id == id);
+            if(restaurant != null)
+            {
+                restaurants.Remove(restaurant);
+            }
+            return null;
         }
     }
 }

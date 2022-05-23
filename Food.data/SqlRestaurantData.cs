@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Food.core;
+using System;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
@@ -28,7 +29,9 @@ namespace Food.data
 
         public Restaurant Delete(int id)
         {
+            Console.WriteLine("rsturnat id::::::::::::::::::::::::::::::::::::::::"+id);
             var restaurant = GetRestaurantsById(id);
+            Console.WriteLine("rsturnat info?????????????????????????????????"+restaurant);
             if(restaurant != null)
             {
                 db.Restaurants.Remove(restaurant);
