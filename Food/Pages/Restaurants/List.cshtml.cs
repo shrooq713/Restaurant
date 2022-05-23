@@ -24,9 +24,6 @@ namespace Food.Pages.Restaurants
         }
         public void OnGet()
         {
-            // returns all restaurant from restaurant Data
-            restaurants = restaurantData.GetAll();
-
             // using GetRestaurantsByName() to search by restaurant name
             restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
