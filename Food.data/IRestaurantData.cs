@@ -12,6 +12,7 @@ namespace Food.data
          int Commit();
          Restaurant Add(Restaurant newRestaurant);
          Restaurant Delete(int id);
+         int GetCountOfRestaurants();
     }
 
     public class InMemoryRestaurantData : IRestaurantData
@@ -73,6 +74,10 @@ namespace Food.data
                 restaurants.Remove(restaurant);
             }
             return null;
+        }
+        public int GetCountOfRestaurants()
+        {
+            return restaurants.Count();
         }
     }
 }
