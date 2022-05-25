@@ -12432,6 +12432,23 @@
         }
       },
       {
+        "HashCode": 320626520,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__RestaurantCountViewComponentTagHelper",
+        "AssemblyName": "Food",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:restaurant-count"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__RestaurantCountViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "RestaurantCount"
+        }
+      },
+      {
         "HashCode": 1342982883,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -14429,6 +14446,11 @@
     {
       "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/shrooqsaleh/Desktop/Center/Dot_Net/Restaurant/Food/Pages/Shared/Components/RestaurantCount/Default.cshtml",
+      "TargetPath": "Pages\\Shared\\Components\\RestaurantCount\\Default.cshtml",
       "FileKind": "mvc"
     },
     {

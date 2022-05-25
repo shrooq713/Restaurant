@@ -29,9 +29,7 @@ namespace Food.data
 
         public Restaurant Delete(int id)
         {
-            Console.WriteLine("rsturnat id::::::::::::::::::::::::::::::::::::::::"+id);
             var restaurant = GetRestaurantsById(id);
-            Console.WriteLine("rsturnat info?????????????????????????????????"+restaurant);
             if(restaurant != null)
             {
                 db.Restaurants.Remove(restaurant);
@@ -64,6 +62,5 @@ namespace Food.data
             entity.State = EntityState.Modified;
             return updatedRestaurant;
         }
-        
     }
 }
